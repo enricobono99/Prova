@@ -6,7 +6,7 @@ I'm **Enrico** from Italy, currently a graduate intern at **Biolizard 🦎**. I 
 ---
 
 ## Contact
-For inquiries, feel free to contact me on [LinkedIn](www.linkedin.com/in/enrico-bono-353971233).
+For inquiries, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/enrico-bono-353971233).
 
 ---
 
