@@ -1,7 +1,7 @@
 # <span style="font-size: 2em;">👋 Hi there</span>
 
 ## About Me
-I'm **Enrico** from Italy (🇮🇹), currently a graduate intern at **Biolizard 🦎**. I am passionate about leveraging **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **multi-omics approaches** to drive forward personalized medicine. If you are interested in this field, you are in the right place. Let's discover my journey and how I am contributing to the field.
+I'm **Enrico** from Italy, currently a graduate intern at **Biolizard 🦎**. I am passionate about leveraging **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **multi-omics approaches** to drive forward personalized medicine. If you are interested in this field, you are in the right place. Let's discover my journey and how I am contributing to the field.
 
 ---
 
