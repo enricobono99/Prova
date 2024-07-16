@@ -1,1 +1,49 @@
-Ok
+# <span style="font-size: 2em;">👋 Hi there</span>
+
+## About Me
+I'm **Enrico** from Italy, currently a graduate intern at **Biolizard 🦎**. I am passionate about leveraging **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **multi-omics approaches** to drive forward personalized medicine. If you are interested in this field, you are in the right place. Let's discover my journey and how I am contributing to the field.
+
+---
+
+## Contact
+For inquiries, feel free to contact me on [LinkedIn](www.linkedin.com/in/enrico-bono-353971233).
+
+---
+
+## Interests
+- Machine Learning (ML)
+- Artificial Intelligence (AI)
+- Multi-omics
+- Personalized Medicine
+
+---
+
+## Projects
+Here are some of the projects I worked/ I've been working on:
+- **Project 1**: Development of a deep learning model for multi-omics integration.
+- **Project 2**: Deconvolving the heterogeneity of pediatric acute myeloid leukemia through a single-cell multi-omics approach. 
+
+---
+
+## Contributions
+II am actively contributing to:
+- **Repository 1**: AutoEncoder (AE) for multi-omics data early integration, data denoising, and/or augmentation.
+- **Repository 2**: Single cell RNA sequencing analysis (closed, no more contributions).
+
+---
+
+## Skills
+- **Programming Languages**: Python, R.
+- **Tools & Technologies**:  PyTorch, Pytorch lightning, Optuna etc.
+- **Other Skills**: Bash, HPC, Git etc.
+
+
+---
+
+## Education
+- **Master's in Biomedical Omics** from University of Milan.
+- **Bachelor's in Biotecnologie** from University of Turin.
+
+---
+
+Thank you for visiting my profile! Stay tuned for more updates on my journey in the fascinating world of personalized medicine ❤️‍🔥
