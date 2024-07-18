@@ -27,8 +27,8 @@ Here are some of the projects I worked/ I've been working on:
 
 ## Contributions
 I am actively contributing to:
-- **Repository 1**: AutoEncoder (AE) for multi-omics data early integration, data denoising, and/or augmentation.
-- **Repository 2**: Single cell RNA sequencing analysis (closed, no more contributions).
+- **Repository 1**: AutoEncoder (AE) for multi-omics data early integration, data denoising, and/or augmentation. (private for now due to an NDA)
+- **Repository 2**: Single cell RNA sequencing analysis (closed, under construction).
 
 ---
 
